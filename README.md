@@ -103,6 +103,7 @@ Think carefully before running ```./cleanup.sh```. ```cleanup.sh``` remove all b
     address = {New York, NY, USA},
     url = {https://doi.org/10.1145/3691620.3695073},
     doi = {10.1145/3691620.3695073},
+    booktitle = {Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering},
     pages = {807–818},
     numpages = {12},
     location = {Sacramento, CA, USA},
