@@ -1,0 +1,15 @@
+{
+    "CustomTopicListener::on_inconsistent_topic": false,
+    "CustomDataReaderListener::on_data_readers": false,
+    "CustomDataWriterListener::on_offered_deadline_missed": false,
+    "CustomDataWriterListener::on_offered_incompatible_qos": false,
+    "CustomDataWriterListener::on_liveliness_lost": false,
+    "CustomDataWriterListener::on_publication_matched": false,
+    "CustomDataReaderListener::on_requested_deadline_missed": false,
+    "CustomDataReaderListener::on_requested_incompatible_qos": false,
+    "CustomDataReaderListener::on_sample_rejected": false,
+    "CustomDataReaderListener::on_liveliness_changed":false,
+    "CustomDataReaderListener::on_data_available":false,
+    "CustomDataReaderListener::on_subscription_matched":false,
+    "CustomDataReaderListener::on_sample_lost":false
+}

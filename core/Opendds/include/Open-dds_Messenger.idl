@@ -1,0 +1,8 @@
+module Messenger {
+
+  @topic
+  struct Message {
+    @key long userID;
+    string text;
+  };
+};

@@ -1,0 +1,252 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----BFDCF59BF9C0BE2C1DEB9B9987DB62EB"
+
+This is an S/MIME signed message
+
+------BFDCF59BF9C0BE2C1DEB9B9987DB62EB
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="utf-8"?> 
+<dds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.omg.org/spec/DDS-SECURITY/20170901/omg_shared_ca_governance.xsd"> 
+	<domain_access_rules> 
+		<domain_rule> 
+			<domains> 
+				<id_range> 
+					<min>0</min> 
+					<max>230</max> 
+				</id_range> 
+			</domains> 
+			<allow_unauthenticated_participants>false</allow_unauthenticated_participants> 
+			<enable_join_access_control>false</enable_join_access_control> 
+			<discovery_protection_kind>NONE</discovery_protection_kind> 
+			<liveliness_protection_kind>NONE</liveliness_protection_kind> 
+			<rtps_protection_kind>NONE</rtps_protection_kind> 
+			<topic_access_rules> 
+				<topic_rule> 
+					<topic_expression>pwztYudPlzm</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>lLCNthYRKOn</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>njXdKKqUPcB</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>iDwRQdBuyOc</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>lfpSkvlSDGb</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>tYtbABljfVR</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>tPkWSKLaTBJ</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>zLuxOiTTyyP</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>CUdRJcyFGpO</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>zKBYFDKHDKL</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>wlNipnaPmtm</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>ePlAxBeQkln</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>FfLuhgwOWIC</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>omPisnqEBOq</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>EKHdxSmyAOK</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>ANBBPWEBwWK</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>DoBwfrcURhf</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>vhtFqZVosOa</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>hnOxSzosJiB</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+				<topic_rule> 
+					<topic_expression>FPlyXyXEmSS</topic_expression> 
+					<enable_discovery_protection>false</enable_discovery_protection> 
+					<enable_liveliness_protection>false</enable_liveliness_protection> 
+					<enable_read_access_control>true</enable_read_access_control> 
+					<enable_write_access_control>true</enable_write_access_control> 
+					<metadata_protection_kind>NONE</metadata_protection_kind> 
+					<data_protection_kind>NONE</data_protection_kind> 
+				</topic_rule> 
+			</topic_access_rules> 
+		</domain_rule> 
+	</domain_access_rules> 
+</dds> 
+
+
+------BFDCF59BF9C0BE2C1DEB9B9987DB62EB
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIGTQYJKoZIhvcNAQcCoIIGPjCCBjoCAQExDzANBglghkgBZQMEAgEFADALBgkq
+hkiG9w0BBwGgggORMIIDjTCCAnWgAwIBAgIUTVSg31EvwcmPyIDbRIIBANvx8Acw
+DQYJKoZIhvcNAQELBQAwVjELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAlBBMRYwFAYD
+VQQHDA1TdGF0ZSBDb2xsZWdlMRAwDgYDVQQKDAdQU2VjTGFiMRAwDgYDVQQDDAdt
+YWluX2NhMB4XDTI0MDYwNjIyMjIyNloXDTM0MDYwNDIyMjIyNlowVjELMAkGA1UE
+BhMCVVMxCzAJBgNVBAgMAlBBMRYwFAYDVQQHDA1TdGF0ZSBDb2xsZWdlMRAwDgYD
+VQQKDAdQU2VjTGFiMRAwDgYDVQQDDAdtYWluX2NhMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAqXNcwK4AKkP39BLyDK4mV/Ve3o8V2BMXUVBDpfwHoY9/
+2nxIq0H5MYNM39A6dPU1jofxDeI5ELAeIvatjLkCwDBzaMLvLGWu7gMm8imNzKjJ
+fUNBzJ1zCNbzKf0OXoxPv5CajXsYNXnp9aaLAgO9DyfV6C16Ht6tfdDErUWjJJ7z
+igPALfgJecp2YDwlX3pZvUqnCy+nyqcim+kxk3VcW5SPJXhhe7WOMPndhGW53lkP
+/Iobt0NXtiE/05g/5dcqUutJ007w287LaBwDZzoVeunqJIHGODcAewNUR8VRAZZ1
+S/St0R+v4xYiQ1aZB7F0s4u0eWEurc7Cv23oEcWQHwIDAQABo1MwUTAdBgNVHQ4E
+FgQUJ3zD64qoxR/hwknjecPaxe33EDgwHwYDVR0jBBgwFoAUJ3zD64qoxR/hwknj
+ecPaxe33EDgwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEARD50
+W0Cch5XdlYu4DRCL4w4HbAYNBHX8sAFjhfAkLp3rBa6Ucjf6JG5CIi84PXMs9/gt
+rFfLHfBkf4r2mfG6HzV7oaUUsaS/tpgARoQRHipwVDcslcVjP6R9L6rGHgMBiJJM
+FI9MfRlMpCiYzrEzi0QL+eWXoKprjukMfHJFaxDFgfHNf8WKfU8n6u/GX/dNVRra
+/na0ke4VsBM26911VHaxOeGffv44eq4WbWPPdIpPLzNDKyWtOrj2wRT4Q9XF6hxL
+rNrQlghOuLD+5/v0hKVpnTxF1RjEr5kfmpMLfX/XM+7LLN/24yd9vy3lGAiKUzZb
+P1pI4vDDnWs8+M6hIDGCAoAwggJ8AgEBMG4wVjELMAkGA1UEBhMCVVMxCzAJBgNV
+BAgMAlBBMRYwFAYDVQQHDA1TdGF0ZSBDb2xsZWdlMRAwDgYDVQQKDAdQU2VjTGFi
+MRAwDgYDVQQDDAdtYWluX2NhAhRNVKDfUS/ByY/IgNtEggEA2/HwBzANBglghkgB
+ZQMEAgEFAKCB5DAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJ
+BTEPFw0yNDA2MDYyMjIyMjZaMC8GCSqGSIb3DQEJBDEiBCBu5rQUXZsaG/ibiFYi
+Gu+sptBcYHPiMfqc1JVJd8M+njB5BgkqhkiG9w0BCQ8xbDBqMAsGCWCGSAFlAwQB
+KjALBglghkgBZQMEARYwCwYJYIZIAWUDBAECMAoGCCqGSIb3DQMHMA4GCCqGSIb3
+DQMCAgIAgDANBggqhkiG9w0DAgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIBKDAN
+BgkqhkiG9w0BAQEFAASCAQB5L3PY6hZSaXF8w9O71++P4zENIk4CUTAErOSk8gjc
+ZWJPnl29YFgDVaeGxzrX1Nm5Wzj4/AuVEtqPqJ1CsV1FEnwDnSiwCUbnkasZgxQ5
+k5huZ08iIH0O/2nkCpempaD09U1FpnXGlFpar3B7EejfXGJmkWNMpPhlGUuaOd9r
+ScZbaDdf5E0M3M3JXqZ7uxfV83wHKYQQA5QYvpkshIXZ1p0iAGFnGmcs8GN/+hxp
+z8Xqqe4WHEdxFlGiDjmyi8Ha8c7wNf2J36fZnlpM+iiJyGNIxxcfUZN8dTc1+rky
+C6nzC28ZPMmZNXLAKaUrewJ3JPPbZVP5U6DernDgmTX1
+
+------BFDCF59BF9C0BE2C1DEB9B9987DB62EB--
+

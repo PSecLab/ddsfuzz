@@ -1,0 +1,1 @@
+afl-fuzz -i in -o out -D 100000+ -t 2000+ -m none -P RTPS -N udp://127.0.0.1/7410 -K -- ./OpenddsFuzz -s 123456789 -m one2one

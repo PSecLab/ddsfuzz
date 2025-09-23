@@ -1,0 +1,297 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----1A87093225E09FB0F4D39E48205F16AE"
+
+This is an S/MIME signed message
+
+------1A87093225E09FB0F4D39E48205F16AE
+Content-Type: text/plain
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<dds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.omg.org/spec/DDS-Security/20170801/omg_shared_ca_permissions.xsd"> 
+	<permissions> 
+		<grant name="DkcuWcZLxzt"> 
+			<subject_name>C=US,ST=PA,L=State College,O=PSecLab,CN=DkcuWcZLxzt</subject_name> 
+			<validity> 
+				<not_before>2013-06-01T13:00:00</not_before> 
+				<not_after>2038-06-01T13:00:00</not_after> 
+			</validity> 
+			<allow_rule> 
+				<domains> 
+					<id_range> 
+						<min>0</min> 
+						<max>230</max> 
+					</id_range> 
+				</domains> 
+				<publish> 
+					<topics> 
+						<topic>pwztYudPlzm</topic> 
+						<topic>lLCNthYRKOn</topic> 
+						<topic>njXdKKqUPcB</topic> 
+						<topic>iDwRQdBuyOc</topic> 
+						<topic>lfpSkvlSDGb</topic> 
+						<topic>tYtbABljfVR</topic> 
+						<topic>tPkWSKLaTBJ</topic> 
+						<topic>zLuxOiTTyyP</topic> 
+						<topic>CUdRJcyFGpO</topic> 
+						<topic>zKBYFDKHDKL</topic> 
+					</topics> 
+				</publish> 
+				<subscribe> 
+					<topics> 
+						<topic>pwztYudPlzm</topic> 
+						<topic>lLCNthYRKOn</topic> 
+						<topic>njXdKKqUPcB</topic> 
+						<topic>iDwRQdBuyOc</topic> 
+						<topic>lfpSkvlSDGb</topic> 
+						<topic>tYtbABljfVR</topic> 
+						<topic>tPkWSKLaTBJ</topic> 
+						<topic>zLuxOiTTyyP</topic> 
+						<topic>CUdRJcyFGpO</topic> 
+						<topic>zKBYFDKHDKL</topic> 
+					</topics> 
+				</subscribe> 
+			</allow_rule> 
+			<deny_rule> 
+				<domains> 
+					<id_range> 
+						<min>0</min> 
+						<max>230</max> 
+					</id_range> 
+				</domains> 
+				<publish> 
+					<topics> 
+						<topic>wlNipnaPmtm</topic> 
+						<topic>ePlAxBeQkln</topic> 
+						<topic>FfLuhgwOWIC</topic> 
+						<topic>omPisnqEBOq</topic> 
+						<topic>EKHdxSmyAOK</topic> 
+						<topic>ANBBPWEBwWK</topic> 
+						<topic>DoBwfrcURhf</topic> 
+						<topic>vhtFqZVosOa</topic> 
+						<topic>hnOxSzosJiB</topic> 
+						<topic>FPlyXyXEmSS</topic> 
+					</topics> 
+				</publish> 
+				<subscribe> 
+					<topics> 
+						<topic>wlNipnaPmtm</topic> 
+						<topic>ePlAxBeQkln</topic> 
+						<topic>FfLuhgwOWIC</topic> 
+						<topic>omPisnqEBOq</topic> 
+						<topic>EKHdxSmyAOK</topic> 
+						<topic>ANBBPWEBwWK</topic> 
+						<topic>DoBwfrcURhf</topic> 
+						<topic>vhtFqZVosOa</topic> 
+						<topic>hnOxSzosJiB</topic> 
+						<topic>FPlyXyXEmSS</topic> 
+					</topics> 
+				</subscribe> 
+			</deny_rule> 
+			<default>DENY</default> 
+		</grant> 
+		<grant name="kzVFtSWnWIh"> 
+			<subject_name>C=US,ST=PA,L=State College,O=PSecLab,CN=kzVFtSWnWIh</subject_name> 
+			<validity> 
+				<not_before>2013-06-01T13:00:00</not_before> 
+				<not_after>2038-06-01T13:00:00</not_after> 
+			</validity> 
+			<allow_rule> 
+				<domains> 
+					<id_range> 
+						<min>0</min> 
+						<max>230</max> 
+					</id_range> 
+				</domains> 
+				<publish> 
+					<topics> 
+						<topic>pwztYudPlzm</topic> 
+						<topic>lLCNthYRKOn</topic> 
+						<topic>njXdKKqUPcB</topic> 
+						<topic>iDwRQdBuyOc</topic> 
+						<topic>lfpSkvlSDGb</topic> 
+						<topic>tYtbABljfVR</topic> 
+						<topic>tPkWSKLaTBJ</topic> 
+						<topic>zLuxOiTTyyP</topic> 
+						<topic>CUdRJcyFGpO</topic> 
+						<topic>zKBYFDKHDKL</topic> 
+					</topics> 
+				</publish> 
+				<subscribe> 
+					<topics> 
+						<topic>pwztYudPlzm</topic> 
+						<topic>lLCNthYRKOn</topic> 
+						<topic>njXdKKqUPcB</topic> 
+						<topic>iDwRQdBuyOc</topic> 
+						<topic>lfpSkvlSDGb</topic> 
+						<topic>tYtbABljfVR</topic> 
+						<topic>tPkWSKLaTBJ</topic> 
+						<topic>zLuxOiTTyyP</topic> 
+						<topic>CUdRJcyFGpO</topic> 
+						<topic>zKBYFDKHDKL</topic> 
+					</topics> 
+				</subscribe> 
+			</allow_rule> 
+			<deny_rule> 
+				<domains> 
+					<id_range> 
+						<min>0</min> 
+						<max>230</max> 
+					</id_range> 
+				</domains> 
+				<publish> 
+					<topics> 
+						<topic>wlNipnaPmtm</topic> 
+						<topic>ePlAxBeQkln</topic> 
+						<topic>FfLuhgwOWIC</topic> 
+						<topic>omPisnqEBOq</topic> 
+						<topic>EKHdxSmyAOK</topic> 
+						<topic>ANBBPWEBwWK</topic> 
+						<topic>DoBwfrcURhf</topic> 
+						<topic>vhtFqZVosOa</topic> 
+						<topic>hnOxSzosJiB</topic> 
+						<topic>FPlyXyXEmSS</topic> 
+					</topics> 
+				</publish> 
+				<subscribe> 
+					<topics> 
+						<topic>wlNipnaPmtm</topic> 
+						<topic>ePlAxBeQkln</topic> 
+						<topic>FfLuhgwOWIC</topic> 
+						<topic>omPisnqEBOq</topic> 
+						<topic>EKHdxSmyAOK</topic> 
+						<topic>ANBBPWEBwWK</topic> 
+						<topic>DoBwfrcURhf</topic> 
+						<topic>vhtFqZVosOa</topic> 
+						<topic>hnOxSzosJiB</topic> 
+						<topic>FPlyXyXEmSS</topic> 
+					</topics> 
+				</subscribe> 
+			</deny_rule> 
+			<default>DENY</default> 
+		</grant> 
+		<grant name="bdbIDTHuEcq"> 
+			<subject_name>C=US,ST=PA,L=State College,O=PSecLab,CN=bdbIDTHuEcq</subject_name> 
+			<validity> 
+				<not_before>2013-06-01T13:00:00</not_before> 
+				<not_after>2038-06-01T13:00:00</not_after> 
+			</validity> 
+			<allow_rule> 
+				<domains> 
+					<id_range> 
+						<min>0</min> 
+						<max>230</max> 
+					</id_range> 
+				</domains> 
+				<publish> 
+					<topics> 
+						<topic>pwztYudPlzm</topic> 
+						<topic>lLCNthYRKOn</topic> 
+						<topic>njXdKKqUPcB</topic> 
+						<topic>iDwRQdBuyOc</topic> 
+						<topic>lfpSkvlSDGb</topic> 
+						<topic>tYtbABljfVR</topic> 
+						<topic>tPkWSKLaTBJ</topic> 
+						<topic>zLuxOiTTyyP</topic> 
+						<topic>CUdRJcyFGpO</topic> 
+						<topic>zKBYFDKHDKL</topic> 
+					</topics> 
+				</publish> 
+				<subscribe> 
+					<topics> 
+						<topic>pwztYudPlzm</topic> 
+						<topic>lLCNthYRKOn</topic> 
+						<topic>njXdKKqUPcB</topic> 
+						<topic>iDwRQdBuyOc</topic> 
+						<topic>lfpSkvlSDGb</topic> 
+						<topic>tYtbABljfVR</topic> 
+						<topic>tPkWSKLaTBJ</topic> 
+						<topic>zLuxOiTTyyP</topic> 
+						<topic>CUdRJcyFGpO</topic> 
+						<topic>zKBYFDKHDKL</topic> 
+					</topics> 
+				</subscribe> 
+			</allow_rule> 
+			<deny_rule> 
+				<domains> 
+					<id_range> 
+						<min>0</min> 
+						<max>230</max> 
+					</id_range> 
+				</domains> 
+				<publish> 
+					<topics> 
+						<topic>wlNipnaPmtm</topic> 
+						<topic>ePlAxBeQkln</topic> 
+						<topic>FfLuhgwOWIC</topic> 
+						<topic>omPisnqEBOq</topic> 
+						<topic>EKHdxSmyAOK</topic> 
+						<topic>ANBBPWEBwWK</topic> 
+						<topic>DoBwfrcURhf</topic> 
+						<topic>vhtFqZVosOa</topic> 
+						<topic>hnOxSzosJiB</topic> 
+						<topic>FPlyXyXEmSS</topic> 
+					</topics> 
+				</publish> 
+				<subscribe> 
+					<topics> 
+						<topic>wlNipnaPmtm</topic> 
+						<topic>ePlAxBeQkln</topic> 
+						<topic>FfLuhgwOWIC</topic> 
+						<topic>omPisnqEBOq</topic> 
+						<topic>EKHdxSmyAOK</topic> 
+						<topic>ANBBPWEBwWK</topic> 
+						<topic>DoBwfrcURhf</topic> 
+						<topic>vhtFqZVosOa</topic> 
+						<topic>hnOxSzosJiB</topic> 
+						<topic>FPlyXyXEmSS</topic> 
+					</topics> 
+				</subscribe> 
+			</deny_rule> 
+			<default>DENY</default> 
+		</grant> 
+	</permissions> 
+</dds> 
+
+
+------1A87093225E09FB0F4D39E48205F16AE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIGTQYJKoZIhvcNAQcCoIIGPjCCBjoCAQExDzANBglghkgBZQMEAgEFADALBgkq
+hkiG9w0BBwGgggORMIIDjTCCAnWgAwIBAgIUTVSg31EvwcmPyIDbRIIBANvx8Acw
+DQYJKoZIhvcNAQELBQAwVjELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAlBBMRYwFAYD
+VQQHDA1TdGF0ZSBDb2xsZWdlMRAwDgYDVQQKDAdQU2VjTGFiMRAwDgYDVQQDDAdt
+YWluX2NhMB4XDTI0MDYwNjIyMjIyNloXDTM0MDYwNDIyMjIyNlowVjELMAkGA1UE
+BhMCVVMxCzAJBgNVBAgMAlBBMRYwFAYDVQQHDA1TdGF0ZSBDb2xsZWdlMRAwDgYD
+VQQKDAdQU2VjTGFiMRAwDgYDVQQDDAdtYWluX2NhMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAqXNcwK4AKkP39BLyDK4mV/Ve3o8V2BMXUVBDpfwHoY9/
+2nxIq0H5MYNM39A6dPU1jofxDeI5ELAeIvatjLkCwDBzaMLvLGWu7gMm8imNzKjJ
+fUNBzJ1zCNbzKf0OXoxPv5CajXsYNXnp9aaLAgO9DyfV6C16Ht6tfdDErUWjJJ7z
+igPALfgJecp2YDwlX3pZvUqnCy+nyqcim+kxk3VcW5SPJXhhe7WOMPndhGW53lkP
+/Iobt0NXtiE/05g/5dcqUutJ007w287LaBwDZzoVeunqJIHGODcAewNUR8VRAZZ1
+S/St0R+v4xYiQ1aZB7F0s4u0eWEurc7Cv23oEcWQHwIDAQABo1MwUTAdBgNVHQ4E
+FgQUJ3zD64qoxR/hwknjecPaxe33EDgwHwYDVR0jBBgwFoAUJ3zD64qoxR/hwknj
+ecPaxe33EDgwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEARD50
+W0Cch5XdlYu4DRCL4w4HbAYNBHX8sAFjhfAkLp3rBa6Ucjf6JG5CIi84PXMs9/gt
+rFfLHfBkf4r2mfG6HzV7oaUUsaS/tpgARoQRHipwVDcslcVjP6R9L6rGHgMBiJJM
+FI9MfRlMpCiYzrEzi0QL+eWXoKprjukMfHJFaxDFgfHNf8WKfU8n6u/GX/dNVRra
+/na0ke4VsBM26911VHaxOeGffv44eq4WbWPPdIpPLzNDKyWtOrj2wRT4Q9XF6hxL
+rNrQlghOuLD+5/v0hKVpnTxF1RjEr5kfmpMLfX/XM+7LLN/24yd9vy3lGAiKUzZb
+P1pI4vDDnWs8+M6hIDGCAoAwggJ8AgEBMG4wVjELMAkGA1UEBhMCVVMxCzAJBgNV
+BAgMAlBBMRYwFAYDVQQHDA1TdGF0ZSBDb2xsZWdlMRAwDgYDVQQKDAdQU2VjTGFi
+MRAwDgYDVQQDDAdtYWluX2NhAhRNVKDfUS/ByY/IgNtEggEA2/HwBzANBglghkgB
+ZQMEAgEFAKCB5DAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJ
+BTEPFw0yNDA2MDYyMjIyMjZaMC8GCSqGSIb3DQEJBDEiBCAYJ52bdhhnutXVCfeB
+/E5KUNjI/n8zPb0bshcnUoA3ejB5BgkqhkiG9w0BCQ8xbDBqMAsGCWCGSAFlAwQB
+KjALBglghkgBZQMEARYwCwYJYIZIAWUDBAECMAoGCCqGSIb3DQMHMA4GCCqGSIb3
+DQMCAgIAgDANBggqhkiG9w0DAgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIBKDAN
+BgkqhkiG9w0BAQEFAASCAQAPM4IMDtJ646ndGYxOf2aoSLeHhYCirOO2/o5FUQ2e
+YzrO+P9yLKPSs8iOTFiieOiQvC9YkbxyF1nl8GwsDr1hTqPtk4IP06On4iG9yPCd
+1QCE8x0HfxKLknEt/dt5QQnj24pc4xCoWVaZ0zPHl/h+9gckpTIYLu5SbzgpkUyV
+p0jcP/yN1HTbdn7s3XgHFMypiaAvcGFzKybqH1ymKz5MhbxG8amkq70kRcKt9C2+
+Vh8INa5JZJTzABDMR0fxyiEyFeASZTPnC7wacr9XfVGj7Ecb3KMjsI/ZCcvtF2dc
+7eJitJHfNrGMsuYAjVdXqzCeyf/bOxbLrVPtw4xgF79x
+
+------1A87093225E09FB0F4D39E48205F16AE--
+
