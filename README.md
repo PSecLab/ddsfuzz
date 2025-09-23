@@ -1,5 +1,4 @@
-Note
-------------------------
+# Note
 This version is identical to the one at https://github.com/SecThings/ddsfuzz. Both repositories were created by members of DDSFuzz.
 
 # How to build
