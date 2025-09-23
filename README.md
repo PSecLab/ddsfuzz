@@ -1,3 +1,7 @@
+Note
+------------------------
+This version is identical to the one at https://github.com/SecThings/ddsfuzz. Both repositories were created by members of DDSFuzz.
+
 # How to build
 A project folder name must be ```DDS-FUZZ```. And ```DDS-FUZZ``` must be in the ```/home/<account name>``` path.
 
